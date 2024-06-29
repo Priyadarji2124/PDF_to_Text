@@ -1,0 +1,44 @@
+GOVERNMENT ENGINEERING COLLAGE, MODASA.
+DEPARTMENT OF COMPUETR ENGINEERING
+
+SEMESTER - V
+SUBJECT CODE - 3150711
+SUBJECT NAME - SOFTWARE ENGINEERING
+en232020)
+
+& Nowe
+
+You have to write each question and its answer in note book.
+
+‘What do you mean by integration testing? Explain their outcomes.
+
+What are the levels at which testing done?
+
+Describe the different challenges with DevOps implementation
+
+‘What is cohesion? Explain the various types of cohesion?
+
+Explain the feasibility studies. What are the outcomes? Does it have either
+
+implicit or explicit effects on software requirement collection?
+
+6. Define design process. List the principles of a software design.
+
+7. What are the elements of Analysis model?
+
+8. Explain how breakdown structure is used in software engineering, Discuss
+how software project scheduling helps in timely release of a product.
+
+9. You have been appointed a project manager for a major software products
+company. Your job is to manage the development of the next-generation
+version of its widely used word processing software. Because competition
+is intense, tight deadlines have been established and announced. What
+team structure would you choose and why? What software process
+model(s) would you choose and why?
+
+10.What is the importance of user interface? Discuss user interface design
+
+rules.
+
+
+
